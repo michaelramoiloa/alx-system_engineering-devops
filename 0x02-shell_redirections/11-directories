@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -type d ! -path | wc -l
+#!/bin/bah
+find . -mindepth 1 -type d | wc -1
